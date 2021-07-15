@@ -1,0 +1,28 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "email": "shirishkhadgi23@gmail.com"
+    },
+    {
+      "email": "shirishkhadgi100@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "",
+      "id": 3
+    },
+    {
+      "email": "someone@gmail.com",
+      "id": 4
+    },
+    {
+      "email": "dsad@sda.com",
+      "id": 5
+    },
+    {
+      "email": "dsad@sda.com",
+      "id": 6
+    }
+  ]
+}
